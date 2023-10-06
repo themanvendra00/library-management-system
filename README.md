@@ -42,9 +42,9 @@ A backend system for managing books in a library using Node.js, Express.js, and 
    ```
 3. Set up Environment Variables:
 
-- PORT = <your-port-number>
-- MONGOURI = <your-mongodb-uri>
-- JWTSECRETKEY = <your-jwt-secret>
+- PORT = `<your-port-number>`
+- MONGOURI = `<your-mongodb-uri>`
+- JWTSECRETKEY = `<your-jwt-secret>`
 
 4. Start the server:
 
